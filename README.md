@@ -1,5 +1,5 @@
 # Power-BI.Northwind-SQL
-UJtilización de Northwind DB for SQLite via Windows ODBC para creación de Dashboard en Power BI
+Utilización de Northwind DB for SQLite via Windows ODBC para creación de Dashboard en Power BI
 
 Uso de diversos controles, filtros sincronizados, botones para navegación.
 
